@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-echo("Hello World");
-    ?>
+    <?php 
+    echo"<h1>hello Vasudev Jaiswal</h1>"
 </body>
 </html>
