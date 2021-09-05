@@ -8,9 +8,9 @@
 </head>
 <body>
     <?php 
-    echo"<h1>hello Vasudev Jaiswal</h1>"
-    vasu = "jaiswal"
-    echo"$"
+    echo"<h1>hello Vasudev Jaiswal</h1>";
+    echo 20+2;
+    
     ?>
 </body>
 </html>
