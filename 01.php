@@ -9,5 +9,8 @@
 <body>
     <?php 
     echo"<h1>hello Vasudev Jaiswal</h1>"
+    vasu = "jaiswal"
+    echo"$"
+    ?>
 </body>
 </html>
